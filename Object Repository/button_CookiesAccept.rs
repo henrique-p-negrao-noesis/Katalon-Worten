@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_CookiesAccept</name>
+   <tag></tag>
+   <elementGuidId>8ce25b3c-047b-4571-9383-8f6b6e516fc6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = 'Aceitar Tudo' or . = 'Aceitar Tudo')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.button--primary.button--md.button--black.button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>83aecc65-2078-49f0-a395-eafaef208bb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3089e4a3-1a1c-41b9-9e59-2c8e2aef9d7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button--primary button--md button--black button</value>
+      <webElementGuid>55aa7d3a-1e43-4b7d-ad99-376e1bd0f85b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aceitar Tudo</value>
+      <webElementGuid>b9cae10c-feb6-4e82-af2e-741528cbaf79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;w-session-channel-WEB w-session-mode-site&quot;]/div[4]/div[@class=&quot;modal modal__mask modal-cookies&quot;]/div[@class=&quot;modal__wrapper--normal modal__wrapper&quot;]/div[@class=&quot;modal__container--normal modal__container&quot;]/div[@class=&quot;modal__content--no-header modal__content&quot;]/section[@class=&quot;modal-cookies__content--bg modal-cookies__content&quot;]/footer[@class=&quot;modal-cookies__footer&quot;]/button[@class=&quot;button--primary button--md button--black button&quot;]</value>
+      <webElementGuid>a4d316c9-1e3d-441d-af58-a8ab50950300</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>InputSearch</name>
+   <tag></tag>
+   <elementGuidId>ee8fb38d-4367-45e6-87a4-de9f663296ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;search&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.product-card__text-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a13c35ea-c736-46e2-8cc2-dbca3de59052</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-card__text-container</value>
+      <webElementGuid>5863f89c-9ec9-4be6-a6aa-d3c345b323c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>€49,99Jogo Nintendo Switch Pokémon Legends Arceus120Vendido por  Worten</value>
+      <webElementGuid>0b2bfbfa-bd3f-4bd0-8ff0-5ed3301faf1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/article[@class=&quot;gama gama--search&quot;]/div[@class=&quot;gama__wrapper&quot;]/div[@class=&quot;gama__main&quot;]/section[@class=&quot;listing-content gama__listing-content&quot;]/div[@class=&quot;listing-content__content listing-content__content--right&quot;]/div[@class=&quot;listing-content__list-container&quot;]/ul[@class=&quot;listing-content__list listing-content__list--grid&quot;]/li[@class=&quot;listing-content__card&quot;]/div[@class=&quot;product-card--grid-container&quot;]/a[@class=&quot;product-card w-app-link product-card&quot;]/div[@class=&quot;product-card__content&quot;]/div[@class=&quot;product-card__text-container&quot;]</value>
+      <webElementGuid>1a5b0004-acc0-4f2a-8e3f-158a1669f2e2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Cart</name>
+   <tag></tag>
+   <elementGuidId>6718c807-12bc-4f70-a401-30a871001427</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div/div[5]/div/div/header/div[2]/div/div[2]/nav/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.cross-sell-products__cart-btn.button--secondary.button--md.button--red.button.cross-sell-products__cart-btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4bd865e1-506c-49bd-a794-19603c1d2f68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cross-sell-products__cart-btn button--secondary button--md button--red button cross-sell-products__cart-btn</value>
+      <webElementGuid>252bde4b-3538-4f65-94a6-ce49357b500d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ebc5fbe5-56e9-41f7-9f15-6d9096653f3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ir para o carrinho</value>
+      <webElementGuid>5464ef35-b249-4908-829f-c7104483279e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SWOGO-Completa a tua compra&quot;)/div[@class=&quot;drawer__container&quot;]/footer[@class=&quot;cross-sell-products__footer&quot;]/button[@class=&quot;cross-sell-products__cart-btn button--secondary button--md button--red button cross-sell-products__cart-btn&quot;]</value>
+      <webElementGuid>42a68892-17f9-4fff-8b87-e9f50c9ec020</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[38]</value>
+      <webElementGuid>09a9a103-3690-4b2b-8f8c-42f8320245ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='SWOGO-Completa a tua compra']/div/footer/button[2]</value>
+      <webElementGuid>25529bff-ebc2-4572-ab70-e3b7cbd0d9d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[29]/div/div/div/footer/button[2]</value>
+      <webElementGuid>d85e2443-df09-4962-9586-cdeac2619362</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Ir para o carrinho' or . = 'Ir para o carrinho')]</value>
+      <webElementGuid>35b38f24-275f-4607-8fe4-fb5948d2308c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
